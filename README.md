@@ -53,13 +53,16 @@ The dashboard includes multiple visualizations such as:
 
 ---
 
-## 🖼️ Sample Output
+## 🖼️ Sample Output  
 
-You can save your generated plots in the `image/` folder and display them here:
+### 🔥 Correlation Heatmap  
+![Heatmap](image/correlation_heatmap.png)
 
-```id="v20gny"
-![Heatmap](images/correlation_heatmap.png)
-```
+### 📊 Study Time vs Score  
+![Study Time](image/studytime_vs_score.png)
+
+### 🚶 Absences vs Score  
+![Absences](image/absences_vs_score.png)
 
 ---
 

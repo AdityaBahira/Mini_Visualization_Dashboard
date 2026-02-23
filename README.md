@@ -58,7 +58,7 @@ The dashboard includes multiple visualizations such as:
 You can save your generated plots in the `image/` folder and display them here:
 
 ```id="v20gny"
-![Heatmap](image/correlation_heatmap.png)
+![Heatmap](images/correlation_heatmap.png)
 ```
 
 ---

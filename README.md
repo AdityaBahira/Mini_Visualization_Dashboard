@@ -56,13 +56,13 @@ The dashboard includes multiple visualizations such as:
 ## 🖼️ Sample Output  
 
 ### 🔥 Correlation Heatmap  
-![Heatmap](image/correlation_heatmap.png)
+![Heatmap](images/correlation_heatmap.png)
 
 ### 📊 Study Time vs Score  
-![Study Time](image/studytime_vs_score.png)
+![Study Time](images/studytime_vs_score.png)
 
 ### 🚶 Absences vs Score  
-![Absences](image/absences_vs_score.png)
+![Absences](images/absences_vs_score.png)
 
 ---
 

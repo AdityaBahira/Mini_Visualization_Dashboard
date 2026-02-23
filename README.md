@@ -62,7 +62,7 @@ The dashboard includes multiple visualizations such as:
 ![Study Time](images/study_time_vs_performance.png)
 
 ### 🚶 Absences vs Score  
-![Absences](images/absences_vs_score.png)
+![Absences](images/Absence_Vs_Performance.png)
 
 ---
 
